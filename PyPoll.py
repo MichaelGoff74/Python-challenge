@@ -3,7 +3,7 @@ import os
 import csv
 
 # store the file path to our csv file
-csv_path = os.path.join("..", "PyPoll", "Resources", "election_data.csv")
+csv_path = os.path.join("PyPoll", "Resources", "election_data.csv")
 # Path to output data
 electionresults = os.path.join("electionresults.txt")
 

@@ -3,7 +3,7 @@ import os
 import csv
 
 # store the file path to our csv file
-csv_path = os.path.join("..", "PyBank", "Resources", "budget_data.csv")
+csv_path = os.path.join("PyBank", "Resources", "budget_data.csv")
 # Path to output data
 financialanalysis = os.path.join("financialanalysis.txt")
 
